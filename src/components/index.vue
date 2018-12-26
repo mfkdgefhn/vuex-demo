@@ -6,6 +6,7 @@
       <tab-item @on-item-click="handler">电影</tab-item>
       <tab-item @on-item-click="handler">酒店</tab-item>
       <tab-item @on-item-click="handler">外卖</tab-item>
+      <tab-item @on-item-click="handler">我的</tab-item>
     </tab>
   </div>
 </template>
